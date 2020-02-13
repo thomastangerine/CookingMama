@@ -20,8 +20,7 @@
   "private": true,
   "dependencies": {
     "ionic": "5.4.16",
-    "ionic-angular": "3.0.1",
-    //"@angular/common": "8.2.13",
+    "@angular/common": "8.2.13",
     "@angular/core": "8.2.13",
     "@angular/forms": "8.2.13",
     "@angular/platform-browser": "8.2.13",
